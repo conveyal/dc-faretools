@@ -1,0 +1,14 @@
+ORIGIN,Balto/Penn Station,Aberdeen,Bowie State,BWI Airport,Edgewood,Halethorpe,Martin State Airport,New Carrollton,Odenton,Perryville,Seabrook,Washington DC,West Baltimore
+Balto/Penn Station,,6,5,4,5,4,4,6,5,7,6,7,4
+Aberdeen,6,,8,7,4,7,5,9,8,4,9,10,6
+Bowie State,5,8,,4,7,4,6,4,4,9,4,5,5
+BWI Airport,4,7,4,,6,4,5,5,4,8,5,6,4
+Edgewood,5,4,7,6,,6,4,8,7,5,8,9,5
+Halethorpe,4,7,4,4,6,,5,5,4,8,5,6,4
+Martin State Airport,4,5,6,5,4,5,,7,6,6,7,8,4
+New Carrollton,6,9,4,5,8,5,7,,4,10,4,4,6
+Odenton,5,8,4,4,7,4,6,4,,9,4,5,5
+Perryville,7,4,9,8,5,8,6,10,9,,10,11,7
+Seabrook,6,9,4,5,8,5,7,4,4,10,,4,6
+Washington DC,7,10,5,6,9,6,8,4,5,11,4,,7
+West Baltimore,4,6,5,4,5,4,4,6,5,7,6,7,
